@@ -1,0 +1,47 @@
+## Build results
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+
+## NuGet
+*.nupkg
+*.snupkg
+**/[Pp]ackages/*
+!**/[Pp]ackages/build/
+
+## User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+## VS / Rider
+.vs/
+.idea/
+*.suo
+*.userprefs
+
+## MSBuild
+*.log
+*.metaproj
+*.metaproj.tmp
+
+## Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+## Publish output
+publish/
+
+## Test results
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+TestResult.xml
+coverage*/
+
+## Misc
+*.cache
+*.tmp

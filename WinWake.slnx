@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/WinWake.App/WinWake.App.csproj" />
+    <Project Path="src/WinWake.Core/WinWake.Core.csproj" />
+    <Project Path="src/WinWake.Windows/WinWake.Windows.csproj" />
+  </Folder>
+</Solution>
